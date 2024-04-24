@@ -5,7 +5,7 @@
 	import Footer from '$lib/components/Footer.svelte';
 </script>
 
-<div class="app bg-white">
+<div class="flex flex-col min-h-screen bg-white">
 	<div class="h-full w-full">
 		<div class="bg-white">
 			<Navbar />
