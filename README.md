@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a full-stack web developer specializing in modern, scalable web applications that solve real business problems. My work emphasizes maintainability, accessibility, and performance — combining user-centered design with robust backend architecture.  
+I am a full-stack web developer specializing in modern, scalable web applications that solve real business problems. My work emphasizes maintainability, accessibility, and performance - combining user-centered design with robust backend architecture.  
 
 Currently, I’m under contract with **TELUS Communications**, building **TechCentral**, a large-scale enterprise platform that centralizes several different technician tools and workflows. The platform integrates multiple legacy systems into a unified interface, improving efficiency for thousands of field technicians across Canada. Built with **Next.js**, **dotCMS**, and **Google Cloud Platform**, it demonstrates my ability to deliver enterprise-grade software in collaboration with cross-functional teams.  
 
@@ -49,7 +49,7 @@ For inquiries or collaboration opportunities, please connect via [LinkedIn](http
 ## Featured Projects
 
 ### **TELUS Tech Central Platform**
-**Stack:** Next.js · TypeScript · dotCMS · GCP · React  
+**Stack:** Next 15 · TypeScript · dotCMS · GCP · React 19 · CloudSQL 
 
 A centralized enterprise platform that streamlines technician workflows by consolidating multiple legacy systems into one cohesive interface. Built for scalability, performance, and accessibility, Tech Central improves operational efficiency across TELUS’s network operations.
 
@@ -76,15 +76,15 @@ Built in collaboration with Vancouver Island University, this web app connects a
 **Stack:** Nuxt 3 · Vue 3 · TypeScript · TailwindCSS · Prisma · Supabase · OpenAI API  
 [grannygogo.ca](https://www.grannygogo.ca)
 
-An intelligent trip-management tool for the medical transportation sector. Includes AI-assisted scheduling, route optimization, and conflict detection — improving both dispatch efficiency and passenger experience.
+An intelligent trip-management tool for the medical transportation sector. Includes AI-assisted scheduling, route optimization, and conflict detection - improving both dispatch efficiency and passenger experience.
 
 ---
 
 ## Other Notable Projects
 
-- **CopyCleanse.com** — Lightweight SvelteKit project that strips watermarks from AI generated text.  
-- **Company Website - MossAway** — SEO-optimized marketing site using Astro and Svelte.  
-- **Window Cleaning Quote/Evaluation Tool** — Modernized version of a quoting system for service professionals.  
+- **CopyCleanse.com** - Lightweight SvelteKit project that strips watermarks from AI generated text.  
+- **Company Website - MossAway** - SEO-optimized marketing site using Astro and Svelte.  
+- **Window Cleaning Quote/Evaluation Tool** - Modernized version of a quoting system for service professionals.  
 
 ---
 
