@@ -4,7 +4,7 @@
 
 I am a full-stack web developer specializing in modern, scalable web applications that solve real business problems. My work emphasizes maintainability, accessibility, and performance - combining user-centered design with robust backend architecture.  
 
-Currently, I’m under contract with **TELUS Communications**, building **TechCentral**, a large-scale enterprise platform that centralizes several different technician tools and workflows. The platform integrates multiple legacy systems into a unified interface, improving efficiency for thousands of field technicians across Canada. Built with **Next.js**, **dotCMS**, and **Google Cloud Platform**, it demonstrates my ability to deliver enterprise-grade software in collaboration with cross-functional teams.  
+Currently, I’m under contract with **TELUS Communications**, building **TechCentral**, a large-scale enterprise platform that centralizes several different technician tools and workflows. The platform integrates multiple legacy systems into a unified interface, improving efficiency for thousands of field technicians across Canada. TechCentral is built with Next.js, dotCMS, and Google Cloud Platform, and developed in close collaboration with cross-functional teams.
 
 For inquiries or collaboration opportunities, please connect via [LinkedIn](https://www.linkedin.com/in/ryanroga/).
 
