@@ -25,7 +25,23 @@ I take products from a rough idea to something people use every day: working out
 
 ## Tools I reach for
 
-TypeScript · SvelteKit · Vue / Nuxt · React / Next.js · Postgres (Neon, Supabase) · Prisma · Tailwind · Cloudflare · Google Cloud · dotCMS
+**Language**<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Front-end**<br>
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Full-stack**<br>
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Platforms**<br>
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![dotCMS](https://img.shields.io/badge/-dotCMS-FF6B35?style=flat)
 
 ## Have a project? Reach out here...
 
