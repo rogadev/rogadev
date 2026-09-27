@@ -37,6 +37,7 @@ I take products from a rough idea to something people use every day: working out
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
 **Platforms**<br>
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
