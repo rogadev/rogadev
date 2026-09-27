@@ -6,21 +6,27 @@ I take products from scoping and design through launch. I work independently thr
 
 ## Current work
 
-### TELUS Communications · Lead Full-Stack Product Developer
+### TELUS Communications
+*Lead Full-Stack Product Developer*
 
 - **[TechCentral](https://rogadigital.com/work/telus-techcentral/)** — Bilingual operations and reference platform used by 2,500+ field technicians.
 - **[TC Tools](https://rogadigital.com/work/telus-tc-tools/)** — Suite of agentic and conventional tools that help content teams prepare material before it enters the publishing system.
 - **[Summit](https://rogadigital.com/work/telus-summit/)** — Credentialing and exam platform for TELUS trades technicians.
 
-### Public Data Works Society · Founder, Executive Director & Lead Developer
+### Public Data Works Society
+*Founder, Executive Director & Lead Full-Stack Product Developer*
 
 - **[E&EO](https://eaeo.ca)** — Maps Canadian credentials to occupational outlooks and wage data.
-- **[Puntledge Tube Report](https://puntledge.ca)** — Live river conditions and a daily assessment of floating conditions on the Puntledge River.
-- **[GoFloat](https://gofloat.ca)** — Expanding river conditions and safety information to popular floating spots, starting on Vancouver Island.
+- **[Puntledge Tube Report](https://puntledge.ca)** — Live river conditions and a daily float assessment.
+- **[GoFloat](https://gofloat.ca)** — Regional expansion of the Puntledge Tube Report that promotes water safety, community engagement, and tourism at popular floating spots.
 
-## Selected projects
+### Carevo
+*Lead Full-Stack Product Developer*
 
-- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Forward-deployed lead product developer for multi-lot vehicle operations, vendor coordination, and QR-coded key tracking.
+- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Multi-lot vehicle operations, vendor coordination, and QR-coded key tracking. Built while forward-deployed with the Carevo team, and still maintained.
+
+## Previous work
+
 - **[Granny Go Go](https://www.grannygogo.ca)** — Trip management for medical transportation, with AI-assisted scheduling.
 - **VIU Career Outlooks** — Career-outcomes tool built with Vancouver Island University, since rebuilt as E&EO.
 
