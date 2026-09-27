@@ -2,25 +2,25 @@
 
 **Lead Full-Stack Product Developer**
 
-I lead product development end to end: scoping, design, full-stack implementation, and long-term operation. I work independently through [Roga Digital](https://rogadigital.com), and I'm the founder and executive director of the **Public Data Works Society**, a non-profit building free public tools on open Canadian data.
+I take products from scoping and design through launch. I work independently through [Roga Digital](https://rogadigital.com), and I’m the founder and executive director of the **Public Data Works Society**, a non-profit building free public tools using open Canadian data.
 
 ## Current work
 
 ### TELUS Communications · Lead Full-Stack Product Developer
 
 - **[TechCentral](https://rogadigital.com/work/telus-techcentral/)** — Bilingual operations and reference platform used by 2,500+ field technicians.
-- **[TC Tools](https://rogadigital.com/work/telus-tc-tools/)** — Pre-publish toolkit and content-operations console for the TechCentral editorial team.
+- **[TC Tools](https://rogadigital.com/work/telus-tc-tools/)** — Suite of agentic and conventional tools that help content teams prepare material before it enters the publishing system.
 - **[Summit](https://rogadigital.com/work/telus-summit/)** — Credentialing and exam platform for TELUS trades technicians.
 
 ### Public Data Works Society · Founder, Executive Director & Lead Developer
 
 - **[E&EO](https://eaeo.ca)** — Maps Canadian credentials to occupational outlooks and wage data.
-- **[Puntledge Tube Report](https://puntledge.ca)** — Live river conditions and a daily float verdict for the Puntledge River.
-- **[GoFloat](https://gofloat.ca)**
+- **[Puntledge Tube Report](https://puntledge.ca)** — Live river conditions and a daily assessment of floating conditions on the Puntledge River.
+- **[GoFloat](https://gofloat.ca)** — Expanding river conditions and safety information to popular floating spots, starting on Vancouver Island.
 
-## Selected past work
+## Selected projects
 
-- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Forward-deployed lead developer. Multi-lot vehicle operations, vendor coordination, and QR-coded key tracking.
+- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Forward-deployed lead product developer for multi-lot vehicle operations, vendor coordination, and QR-coded key tracking.
 - **[Granny Go Go](https://www.grannygogo.ca)** — Trip management for medical transportation, with AI-assisted scheduling.
 - **VIU Career Outlooks** — Career-outcomes tool built with Vancouver Island University, since rebuilt as E&EO.
 
