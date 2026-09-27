@@ -27,6 +27,6 @@ I take products from a rough idea to something people use every day: working out
 
 TypeScript · SvelteKit · Vue / Nuxt · React / Next.js · Postgres (Neon, Supabase) · Prisma · Tailwind · Cloudflare · Google Cloud · dotCMS
 
-## Say hi
+## Have a project? Reach out here...
 
-[rogadigital.com](https://rogadigital.com) · [LinkedIn](https://www.linkedin.com/in/ryanroga/)
+[rogadigital.com](https://rogadigital.com)
