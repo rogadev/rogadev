@@ -2,28 +2,29 @@
 
 **Lead Full-Stack Product Developer** · Cumberland, BC
 
-I take products from a rough idea to something people use every day: working out what to build, designing it, building the whole stack, and looking after it once it ships. I work freelance through [Roga Digital](https://rogadigital.com), and I'm the founder and executive director of the **Public Data Works Society**, a non-profit that turns open Canadian data into free, useful tools.
+I lead product development end to end: scoping, design, full-stack implementation, and long-term operation. I work independently through [Roga Digital](https://rogadigital.com), and I'm the founder and executive director of the **Public Data Works Society**, a non-profit building free public tools on open Canadian data.
 
-## What I'm working on
+## Current work
 
-**TELUS Communications**, lead product developer on three internal platforms:
+### TELUS Communications · Lead Full-Stack Product Developer
 
-- **[TechCentral](https://rogadigital.com/work/telus-techcentral/)**: a bilingual operations and reference platform for 2,500+ field technicians.
-- **[TC Tools](https://rogadigital.com/work/telus-tc-tools/)**: a pre-publish toolkit and content-ops console for the editors who keep TechCentral accurate.
-- **[Summit](https://rogadigital.com/work/telus-summit/)**: a credentialing and exam platform for TELUS trades technicians.
+- **[TechCentral](https://rogadigital.com/work/telus-techcentral/)** — Bilingual operations and reference platform used by 2,500+ field technicians.
+- **[TC Tools](https://rogadigital.com/work/telus-tc-tools/)** — Pre-publish toolkit and content-operations console for the TechCentral editorial team.
+- **[Summit](https://rogadigital.com/work/telus-summit/)** — Credentialing and exam platform for TELUS trades technicians.
 
-**Public Data Works Society**, home to E&EO, Puntledge Tube Report, and GoFloat:
+### Public Data Works Society · Founder, Executive Director & Lead Developer
 
-- **[E&EO](https://eaeo.ca)**: connects Canadian credentials to career outlooks and wage data.
-- **[Puntledge Tube Report](https://puntledge.ca)**: answers one question, is the Puntledge River worth floating today?
+- **[E&EO](https://eaeo.ca)** — Maps Canadian credentials to occupational outlooks and wage data.
+- **[Puntledge Tube Report](https://puntledge.ca)** — Live river conditions and a daily float verdict for the Puntledge River.
+- **[GoFloat](https://gofloat.ca)**
 
-## Past projects
+## Selected past work
 
-- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)**: embedded with the team as their lead developer to build multi-lot vehicle operations, vendor coordination, and QR-coded key tracking.
-- **[Granny Go Go](https://www.grannygogo.ca)**: trip management for medical transportation, with AI-assisted scheduling.
-- **VIU Career Outlooks**: built with Vancouver Island University to connect programs to BC job data. It lives on as E&EO.
+- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Forward-deployed lead developer. Multi-lot vehicle operations, vendor coordination, and QR-coded key tracking.
+- **[Granny Go Go](https://www.grannygogo.ca)** — Trip management for medical transportation, with AI-assisted scheduling.
+- **VIU Career Outlooks** — Career-outcomes tool built with Vancouver Island University, since rebuilt as E&EO.
 
-## Tools I reach for
+## Tech stack
 
 **Language**<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -33,7 +34,7 @@ I take products from a rough idea to something people use every day: working out
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Full-stack**<br>
+**Full-stack frameworks**<br>
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -44,6 +45,6 @@ I take products from a rough idea to something people use every day: working out
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## Have a project? Reach out here...
+## Contact
 
-[rogadigital.com](https://rogadigital.com)
+For project inquiries, visit [rogadigital.com](https://rogadigital.com).
