@@ -1,6 +1,6 @@
 # Ryan Roga
 
-**Lead Full-Stack Product Developer** · Cumberland, BC
+**Lead Full-Stack Product Developer**
 
 I lead product development end to end: scoping, design, full-stack implementation, and long-term operation. I work independently through [Roga Digital](https://rogadigital.com), and I'm the founder and executive director of the **Public Data Works Society**, a non-profit building free public tools on open Canadian data.
 
