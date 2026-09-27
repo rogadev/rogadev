@@ -20,10 +20,10 @@ I take products from scoping and design through launch. I work independently thr
 - **[Puntledge Tube Report](https://puntledge.ca)** — Live river conditions and a daily float assessment.
 - **[GoFloat](https://gofloat.ca)** — Regional expansion of the Puntledge Tube Report that promotes water safety, community engagement, and tourism at popular floating spots.
 
-### Carevo
+### CarEvo
 *Lead Full-Stack Product Developer*
 
-- **[Carevo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Multi-lot vehicle operations, vendor coordination, and QR-coded key tracking. Built while forward-deployed with the Carevo team, and still maintained.
+- **[CarEvo Logistics](https://rogadigital.com/work/carevo-logistics/)** — Multi-lot vehicle operations, vendor coordination, and QR-coded key tracking. Built while forward-deployed with the CarEvo team, and still maintained.
 
 ## Previous work
 
